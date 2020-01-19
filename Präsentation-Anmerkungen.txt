@@ -1,0 +1,26 @@
+Anmerkungen:
+Ich hab alles gefixt was beim letzten mal gefehlt hat 
+
+-Gliederung: Falls ihr eine Idee habt, was man anstatt "Vorstellung" hinschreiben kann macht das mal bitte (klingt nicht so wirklich gut imo)
+-1.3 Ich hab die Salespoint Folie gelöscht und würde vorschlagen, dass wir die bei den High-Level Use-Cases mit intigrieren & sagen, dass wir Salespoint für Katalog & Wahrenkorb verwendet haben (ist deutlich anschaulicher)
+-1.4 Eventuell löschen?!
+-1.5 Kommunikation: Als kleine Sache die man, da ja noch erwähnen kann ist, dass man sich manchmal ausversehen gegenseitig sabotiert, wegen mangelnder Absprache (oder war nur ich das?)
+-1.6 Könnte man noch ein bisschen was hinzufügen, aber mir fällt nix gutes ein...
+
+Die Pros von der Zwischenpräesentation:
+-Dauer war angemessen (10/10 Minuten)
+-Gute Vorbereitung
+-Corporate-Design der TUD verwendet
+-CRC-Karten als Schritt der Analyse
+-Chronologische Ordnung
+-Before-After Vergleich der GUI
+-Herausforderungen in Entwicklung und eigene Defizite
+-Menge an Text war angemessen
+-Rollenspielszenario (Gartenparty) anstatt nur Demonstration
+-Professionelles UI-Design
+-GitHub (wie es uns geholfen hat)
+-Herausforderungen und 'learned lessons'
+-Gruppenvorstellung
+-Bezug auf Composite-Pattern
+
+Fragen erst zum Ende zulassen (und das am Anfang betonen)
